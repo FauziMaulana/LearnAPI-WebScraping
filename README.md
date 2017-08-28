@@ -1,1 +1,14 @@
-# LearnAPI-WebScraping
+<p align="center">
+  <img src="https://d36m266ykvepgv.cloudfront.net/uploads/media/6iiJRXQWqh/s-512-284/api-picture.png">
+  </p>
+  
+
+
+
+
+| Notebook                                                                                                                                                                                                                | Definition                                                                                                                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Web Scraping](http://nbviewer.jupyter.org/github/FauziMaulana/LearnAPI-WebScraping/blob/master/Web%20Scraping.ipynb)                                                                                                   | Extract data from Web pages. Extract weather information about downtown San Francisco from this page. Combine the data into a Pandas DataFrame and analyze it.                                                         |
+| [Working with APIs](http://nbviewer.jupyter.org/github/FauziMaulana/LearnAPI-WebScraping/blob/master/Working%20with%20APIs.ipynb)                                                                                       | Working with APIs by finding the position of the International Space Station.                                                                                                                                          |
+| [Scraping Data from IMDB and Metacritic Ratings Websites](http://nbviewer.jupyter.org/github/FauziMaulana/LearnAPI-WebScraping/blob/master/Scraping%20Data%20from%20IMDB%20and%20Metacritic%20Ratings%20Websites.ipynb) | Web Scraping & Analyzing the distributions of IMDB and Metacritic movie ratings                                                                                                                                        |
+| [Handling Large Datasets in Python](http://nbviewer.jupyter.org/github/FauziMaulana/LearnAPI-WebScraping/blob/master/Handling%20Large%20Datasets%20in%20Python%20.ipynb)                                                | Handling unstructured large JSON file datasets. Exploring JSON file on the command line, then import it into Python and work with it using Pandas. Explore and map out police activity in Montgomery County, Maryland. |                                             |
